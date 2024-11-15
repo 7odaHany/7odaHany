@@ -1,30 +1,44 @@
 <h1 align="center">Hi 👋, I'm Mahmoud Hany</h1>
-<h3 align="center">Flutter developer</h3>
-
-<p align="left"> <a href="https://twitter.com/mahmoud_hany__6" target="blank"><img src="https://img.shields.io/twitter/follow/mahmoud_hany__6?logo=twitter&style=for-the-badge" alt="mahmoud_hany__6" /></a> </p>
-
-- currently learning **Computer Science**
-
-- 🌱 I’m currently learning **Flutter**
-
-- 📫 How to reach me **mahmoud.hany.attia@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/mahmoud_hany__6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mahmoud_hany__6" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/7odahany" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="7odahany" height="30" width="40" /></a>
-<a href="https://fb.com/mahmoud.hany.attia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mahmoud.hany.attia" height="30" width="40" /></a>
-<a href="https://instagram.com/mahmoud_hany__6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mahmoud_hany__6" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/a_7oodaaa" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="a_7oodaaa" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/7oodaaa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="7oodaaa" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/7oodaaa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="7oodaaa" height="30" width="40" /></a>
+<h3 align="center">Flutter Developer</h3>
+<!-- <p align="center"><a href="https://7odaHany.github.io"><img width="80%" alt="Hello, I'm Mahmoud Hany. Flutter developer" src="./assets/gh-readme-header.png" /></a></p> -->
+<p align="center">
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="400"/>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=7odahany&show_icons=true&locale=en&layout=compact" alt="7odahany" /></p>
+## <img src = "https://i.pinimg.com/originals/3f/7e/4e/3f7e4eff7c96e9fe4b8b4b1ff3f7bdb5.gif" width = 6.5%> About me
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=7odahany&show_icons=true&locale=en" alt="7odahany" /></p>
+<img align="right" src="https://www.freecoursesandbooks.net/wp-content/uploads/2022/03/18a4949fc9c8067172d3b96e302e7097.gif" width=30%>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=7odahany&" alt="7odahany" /></p>
+<br><br>	  
+- I am a Studient at [*`Faculty of Computers & Informatics`*](http://suez.edu.eg/ar/%d9%83%d9%84%d9%8a%d8%a9-%d8%a7%d9%84%d8%ad%d8%a7%d8%b3%d8%a8%d8%a7%d8%aa-%d9%88%d8%a7%d9%84%d9%85%d8%b9%d9%84%d9%88%d9%85%d8%a7%d8%aa/) at [*`Suez Canal University`*](http://suez.edu.eg/ar/). 
+- 👨‍💻I am a competitive programmer at [*`codeforces`*](https://codeforces.com/profile/7oodaaa)
+- :student: I’m currently learning `Computer Science` and `Software Engineering`.
+- 📫 How to reach me **`mahmoud.hany.attia@gmail.com`**
+<br><br><br><br>
+	  
+ #
+ <p align="center">
+<img src="https://github.com/Slama305/slama305/blob/main/5c3a5a33-5c96-46e0-b732-beeeb1b7c886.gif"/></p>
+	
+
+## <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="10%"> Connect with me
+<p align="center">
+	<br><br>
+	<a href="mailto:mahmoud.hany.attia@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
+	<a href="https://github.com/7odaHany"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
+	<a href="https://wa.me/0201212867011"><img src="https://img.shields.io/badge/whatsapp-%2325D366.svg?style=plastic&logo=whatsapp&logoColor=white" alt="Whatsapp"/></a>
+	<a href="https://www.linkedin.com/in/7odahany"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+	<a href="https://www.facebook.com/mahmoud.hany.attia"><img src="https://img.shields.io/badge/facebook-%231877F2.svg?style=plastic&logo=facebook&logoColor=white" alt="Facebook"/></a>
+	<a href="https://instagram.com/mahmoud_hany_6"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=plastic&logo=instagram&logoColor=white" alt="Instagram"/></a>
+    <br><br>
+</p>
+
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="3%"> My Skills
+	
+### <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" width=5%> Programming languages
+
+<p align="center"> 
+  &emsp; 
+<p align="center"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="80" height="80"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="80" height="80"/> </a> <a href="https://dart.dev/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original-wordmark.svg" alt="dart" width="80" height="80"/> </a> <a href="https://flutter.dev/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="flutter" width="80" height="80"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="80" height="80"/> </a> </p>
+</body>
