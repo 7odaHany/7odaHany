@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="100px">
 </div>
 <h1 align="center">Hi I'm Mahmoud Hany</h1> 
-<h4 align="center">Welcome to my profile! I'm a Flutter Developer from Egypt. Thanks for visiting and I'd love to connect!</h4>
+<h4 align="center">Welcome to my profile! I'm a Flutter Developer. Thanks for visiting and I'd love to connect!</h4>
 <br>
 
 ![](https://github-widgetbox.vercel.app/api/profile?username=7odaHany&data=followers,repositories,stars,commits&theme=nautilus)
